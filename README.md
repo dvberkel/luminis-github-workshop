@@ -1,4 +1,4 @@
-luminis-github-workshop
-=======================
+Luminis GitHub Repository
+==========================
 
-A repository to examine how git and GitHub can be used to version software
+A repository to examine how git and GitHub can be used to version software.
